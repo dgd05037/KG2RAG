@@ -28,3 +28,8 @@ Query
 ## Running
 
 Open `KG2RAG_demo.ipynb` and run the notebook cells sequentially.
+
+## Dataset
+
+The original dataset is not included in this repository.
+A small sample file is provided for demonstration.
