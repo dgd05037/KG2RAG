@@ -3,7 +3,9 @@
 KG2RAG-lite is a hybrid retrieval system that combines dense retrieval and knowledge graph traversal for entity-centric question answering on cultural heritage data.
 
 Semantic Search Pipeline
+
 Dense Embedding Retrieval
+
 Knowledge Graph Augmented RAG
 
 ## Pipeline
