@@ -1,4 +1,4 @@
-# KG2RAG-lite
+# KG2RAG: Knowledge Graph Augmented Retrieval System
 
 KG2RAG-lite is a hybrid retrieval system that combines dense embedding retrieval and knowledge graph traversal for entity-centric question answering on cultural heritage data.
 
