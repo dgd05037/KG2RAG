@@ -54,9 +54,10 @@ Answer: 「시경」의 「빈풍칠월편」에 등장하는 문양은 나무, 
 
 ## Dataset
 
-The original system was developed using a cultural heritage knowledge graph containing approximately **12,000 cultural heritage items** and multiple relation types (e.g., creator, era, material, pattern).
+The original system was developed using a cultural heritage knowledge graph containing approximately 12,000 cultural heritage items and multiple relation types (e.g., creator, era, material, pattern).
 
-Due to data sharing restrictions, the dataset is not included in this repository.  
+Due to data sharing restrictions, the original dataset is not included in this repository. 
+The repository focuses on the retrieval pipeline implementation and system architecture.
 
 ---
 
